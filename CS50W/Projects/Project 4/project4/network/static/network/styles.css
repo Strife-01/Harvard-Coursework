@@ -1,0 +1,25 @@
+* {
+    font-family: sans-serif;
+}
+
+.new_post {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.add_post_header {
+    margin-top: 10px;
+}
+
+.error {
+    color: red;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    padding: 10px;
+}

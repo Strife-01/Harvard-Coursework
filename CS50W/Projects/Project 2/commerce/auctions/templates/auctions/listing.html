@@ -1,0 +1,62 @@
+{% extends "auctions/layout.html" %}
+
+{% block body %}
+    <h2>Active Listings</h2>
+
+    <div class="container w-100">
+        <h2>Listing: {{ listing.title }}</h2>
+        {% if request.user.id == creator.id %}
+        <form action="{{ listing.id }}" method="post">
+            {% csrf_token %}
+            <input type="submit" name="deactivate" value="Deactivate">
+        </form>
+        {% endif %}
+        <img src="{{ listing.image_url }}" alt="{{ listing.image_alt }}" width="300px">
+        {% if listing.description %}
+            <p>{{ listing.description }}</p>
+        {% endif %}
+        {% if nr_bids %}
+            <h3>Current bid: <b>{{ highest_bid }}</b></h3>
+            <p>There are {{ nr_bids }} number of bids and {{ highest_bidder.username }} is the current highest bidder.</p>
+        {% else %}
+            <p>No bids yet</p>
+            <p>Be the first one who places a bid</p>
+        {% endif %}
+        <form action="{{ listing.id }}" method="post">
+            {% csrf_token %}
+            {{ form }}
+            <input type="submit" name="place_bid" value="Place Bid">
+        </form>
+        <h3>Details</h3>
+        <ul>
+            <li>Listed by: {{ creator.username }}</li>
+            <li>Category: {{ category }}</li>
+        </ul>
+        <form action="{{ listing.id }}" method="post">
+            {% csrf_token %}
+            {% if not is_watchlisted %}
+                <input type="submit" name="watchlist" value="Add to watchlist">
+            {% else %}
+                <input type="submit" name="remove_watchlist" value="Remove from watchlist">
+            {% endif %}
+        </form>
+        <form action="{{ listing.id }}" method="post">
+            {% csrf_token %}
+            {{ com_form }}
+            <input type="submit" name="place_comment" value="Post comment">
+        </form>
+        {% if not listing.is_auction_active %}
+            The winner is {{ highest_bidder }}
+        {% endif %}
+        {% if comments %}
+            {% for comment, username in comments %}
+                <div class="container">
+                    <p>This comment has been posted by {{ username }}</p>
+                    <p>{{ comment }}</p>
+                </div>
+            {% endfor %}
+        {% else %}
+            <p>No Comments yet</p>
+        {% endif %}
+    </div>
+{% endblock %}

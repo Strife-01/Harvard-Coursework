@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: On reverse it takes way more time to perform the 50000 than sort 3
+
+sort2 uses: Merge Sort
+
+How do you know?: On reverse it takes the least and a logaritmic time to sort the 50000 elem than any of the rest
+
+sort3 uses: Selection Sort
+
+How do you know?: On reverse it takes less time than sort 1 but more time than sort 2

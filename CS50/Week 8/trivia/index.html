@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Trivia!</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+        <script src="index.js" defer></script>
+    </head>
+    <body>
+        <header class="container">
+            <h1 id="main-header">
+                Trivia!
+            </h1>
+        </header>
+        <main class="container">
+            <div id="part-1">
+                <h2 class="sections">
+                    Part 1: Multiple Choice
+                </h2>
+                <hr/>
+                <h3 class="question" id="question-1">
+                    What is the best programming language for embedded programming?
+                </h3>
+                <p id="feedback-1"></p>
+                <div class="answers">
+                    <button onclick="checkSectionOne(event)">C</button>
+                    <button onclick="checkSectionOne(event)">C++</button>
+                    <button onclick="checkSectionOne(event)">CSS</button>
+                    <button onclick="checkSectionOne(event)">HTML</button>
+                    <button onclick="checkSectionOne(event)">Java</button>
+                    <button onclick="checkSectionOne(event)">JavaScript</button>
+                    <button onclick="checkSectionOne(event)">Python</button>
+                    <button onclick="checkSectionOne(event)">SQL</button>
+                </div>
+            </div>
+            <div id="part-2">
+                <h2 class="sections">
+                    Part 2: Free Response
+                </h2>
+                <hr/>
+                <h3 class="question" id="question-2">
+                    What is the easiest programming language to learn?
+                </h3>
+                <p id="feedback-2"></p>
+                <div class="answers">
+                    <input type="text">
+                    <button onclick="checkSectionTwo(event)">Check Answer</button>
+                </div>
+            </div>
+        </main>
+    </body>
+</html>

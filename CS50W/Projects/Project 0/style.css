@@ -1,0 +1,84 @@
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.search-options {
+  text-align: right;
+  display: flex;
+  justify-content: end;
+}
+.search-options a {
+  display: inline-block;
+  text-decoration: none;
+  color: rgb(61, 61, 61);
+  font-size: 12px;
+  margin-top: 20px;
+  margin-right: 15px;
+}
+
+.break {
+  flex-basis: 100%;
+  height: 0;
+}
+
+.g-search {
+  margin-top: 350px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.g-search .search-input {
+  width: 400px;
+  height: 40px;
+  border-radius: 100px;
+  border: 1px solid #9a9a9a;
+  padding-inline: 20px;
+}
+.g-search .search-btn {
+  width: 150px;
+  height: 30px;
+  background-color: #f8f9fa;
+  border: 1px solid #9a9a9a;
+  margin-top: 30px;
+}
+
+.g-advanced-search {
+  margin-top: 350px;
+  display: flex;
+  justify-content: left;
+  flex-wrap: wrap;
+  margin-left: 50px;
+  font-size: 12px;
+}
+.g-advanced-search .search-input {
+  width: 400px;
+  height: 25px;
+  border: 1px solid #9a9a9a;
+  padding-inline: 20px;
+  position: relative;
+  right: -10px;
+}
+.g-advanced-search .search-btn {
+  width: 170px;
+  height: 30px;
+  background-color: #f8f9fa;
+  border: 1px solid #9a9a9a;
+  margin: 30px;
+}
+.g-advanced-search .advanced-button {
+  background-color: #4d90fe;
+  color: white;
+  position: relative;
+  right: -282px;
+}
+
+.hidden {
+  visibility: hidden;
+  position: absolute;
+}
+
+/*# sourceMappingURL=style.css.map */

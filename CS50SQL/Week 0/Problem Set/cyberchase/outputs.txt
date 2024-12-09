@@ -1,0 +1,349 @@
+Question 1:
+Lost My Marbles
+Castleblanca
+R-Fair City
+Snow Day to be Exact
+Sensible Flats
+Zeus on the Loose
+The Poddleville Case
+And They Counted Happily Ever After
+Clock Like An Egyptian
+Secrets of Symmetria
+A Day at the Spa
+Of All The Luck
+Eureeka
+Cool It
+Find Those Gleamers
+Codename: Icky
+Return to Sensible Flats
+Problem Solving in Shangri-La
+Send in the Clones
+Trading Places
+Less Than Zero
+Model Behavior
+Fortress of Attitude
+Size Me Up
+A Battle of Equals
+Out of Sync
+
+Question 2:
+1|Lost My Marbles
+2|Hugs & Witches
+3|EcoHaven CSE
+4|Balancing Act
+5|The Halloween Howl
+6|Digit's B-Day Surprise
+7|Weather Watchers Gone With The Fog
+8|The Hacker's Challenge
+9|An Urchin Matter
+10|Fit to be Heroes
+11|Watts of Halloween Trouble
+12|Space Waste Odyssey
+13|Duck Stop
+14|Clean-Up on Isle 8
+
+Question 3:
+CYB091
+
+Question 4:
+Space Waste Odyssey
+Space Waste Odyssey
+Giving Thanks Day
+A Garden Grows in Botlyn
+Missing Bats in Sensible Flats
+Water Woes
+Soil Turmoil
+Hacker Hugs a Tree
+Pursuit of the Prism of Power
+Composting in the Clutch
+A Camping Conundrum
+Journey of a Thousand Food Miles
+Duck Stop
+The Great Outdoors
+Coral Grief
+Sustainable by Design
+Hacker's Bright Idea
+Buzz and the Tree
+The Lilting Loons
+Living in Disharmony
+Traffic Trouble
+A Garden is Born
+Clean-Up on Isle 8
+Weather or Not
+Weather or Not
+Trees, Please
+
+Question 5:
+Starlight Night
+
+Question 6:
+Digit's B-Day Surprise
+When Penguins Fly
+
+Question 7:
+Zeus on the Loose|Fractions
+Harriet Hippo & the Mean Green|Equivalent Fractions
+Shari Spotter and the Cosmic Crumpets|Mixed-Number Fractions
+A Fraction of a Chance|Fractions 101
+Peace, Love, and Hackerness|Measuring with Mixed Number Fractions
+Trash Creep|Fractions, Effects of Trash, and Recycling
+
+Question 8:
+31
+
+Question 9:
+74
+
+Question 10:
+1|Lost My Marbles|CYB001
+6|Zeus on the Loose|CYB002
+8|And They Counted Happily Ever After|CYB003
+3|R-Fair City|CYB004
+5|Sensible Flats|CYB005
+7|The Poddleville Case|CYB006
+4|Snow Day to be Exact|CYB007
+10|Secrets of Symmetria|CYB008
+9|Clock Like An Egyptian|CYB009
+2|Castleblanca|CYB010
+11|A Day at the Spa|CYB011
+17|Return to Sensible Flats|CYB012
+21|Less Than Zero|CYB013
+14|Cool It|CYB014
+13|Eureeka|CYB015
+18|Problem Solving in Shangri-La|CYB016
+15|Find Those Gleamers|CYB017
+12|Of All The Luck|CYB018
+16|Codename: Icky|CYB019
+19|Send in the Clones|CYB020
+20|Trading Places|CYB021
+26|Out of Sync|CYB022
+22|Model Behavior|CYB023
+23|Fortress of Attitude|CYB024
+24|Size Me Up|CYB025
+25|A Battle of Equals|CYB026
+29|Harriet Hippo & the Mean Green|CYB027
+30|True Colors|CYB028
+27|Hugs & Witches|CYB029
+28|Totally Rad|CYB030
+31|All the Right Angles|CYB031
+33|The Eye of Rom|CYB032
+32|Mother's Day|CYB033
+40|Trick or Treat|CYB034
+34|A Whale of a Tale|CYB035
+35|Double Trouble|CYB036
+36|Raising the Bar|CYB037
+39|A Time to Cook|CYB038
+38|The Guilty Party|CYB039
+37|The Wedding Scammer|CYB040
+42|The Borg of the Ring|CYB041
+43|A World Without Zero|CYB042
+41|EcoHaven CSE|CYB043
+44|A Piece of the Action|CYB044
+46|The Grapes of Plath|CYB045
+45|The Creech Who Would be Crowned|CYB046
+48|Be Reasonable|CYB047
+51|Shari Spotter and the Cosmic Crumpets|CYB048
+52|Starlight Night|CYB049
+47|A Perfect Fit|CYB050
+49|The Snelfu Snafu|CYB051
+50|The Snelfu Snafu|CYB052
+60|A Crinkle In Time|CYB053
+54|The Icky Factor|CYB054
+59|The Case of the Missing Memory|CYB055
+53|Balancing Act|CYB056
+55|Penguin Tears|CYB057
+58|A Change of Art|CYB058
+56|Past Perfect Prediction|CYB059
+61|A Broom Of One's Own|CYB060
+57|Measure For Measure|CYB061
+62|A Tikiville Turkey Day|CYB062
+64|A Clean Sweep|CYB063
+65|Designing Mr. Perfect|CYB064
+68|The Flying Parallinis|CYB065
+66|EcoHaven Ooze|CYB066
+67|The Fairy Borg Father|CYB067
+70|Inside Hacker|CYB068
+71|On the Line|CYB069
+72|A Fraction of a Chance|CYB070
+63|The Halloween Howl|CYB071
+69|Crystal Clear|CYB072
+73|Digit's B-Day Surprise|CYB073
+74|When Penguins Fly|CYB074
+75|Unhappily Ever After|CYB075
+76|Escape From Merlin's Maze|CYB076
+77|Step By Step|CYB077
+81|Chaos as Usual|CYB078
+78|Team Spirit|CYB079
+79|Jimaya Jam|CYB080
+80|A Perfect Score|CYB081
+82|Spheres of Fears|CYB082
+83|Weather Watchers Gone With The Fog|CYB083
+84|The Emperor Has Snow Clothes|CYB084
+85|The X-Factor|CYB085
+86|Blowin' in the Wind Blowin in the Wind|CYB086
+87|Father's Day|CYB087
+88|The Deedle Beast|CYB088
+89|Spellbound|CYB089
+90|The Hacker's Challenge|CYB090
+93|Hackerized!|CYB091
+94|The Bluebird of Zappiness|CYB092
+91|Face-Off!|CYB093
+92|Peace, Love, and Hackerness|CYB094
+95|An Urchin Matter|CYB095
+96|Going Solar|CYB096
+97|Trash Creep|CYB097
+98|The Cyberchase Movie|CYB099
+99|The Cyberchase Movie|CYB100
+100|Fit to be Heroes|CYB101
+101|A Recipe for Chaos|CYB102
+102|A Seedy Business|CYB103
+103|Parks and Recreation|CYB104
+104|Bottled Up|CYB105
+105|Watts of Halloween Trouble|CYB106
+106|Creech's Creature Quandary|CYB107
+107|A Murky Mystery in Mermaidos|CYB108
+108|Plantasaurus!|CYB109
+109|A Reboot Eve to Remember|CYB110
+110|Housewarming Party|CYB111
+111|Invasion of the Funky Flower|CYB112
+112|A Renewable Hope|CYB113
+113|The Migration Situation|CYB114
+114|Back to Canalia's Future|CYB115
+117|Giving Thanks Day|CYB116
+116|Space Waste Odyssey|CYB117
+115|Space Waste Odyssey|CYB118
+118|A Garden Grows in Botlyn|CYB119
+119|Missing Bats in Sensible Flats|CYB120
+120|Water Woes|CYB121
+121|Soil Turmoil|CYB122
+122|Hacker Hugs a Tree|CYB123
+123|Pursuit of the Prism of Power|CYB124
+124|Composting in the Clutch|CYB125
+125|A Camping Conundrum|CYB126
+126|Journey of a Thousand Food Miles|CYB127
+127|Duck Stop|CYB128
+128|The Great Outdoors|CYB129
+129|Coral Grief|CYB130
+130|Sustainable by Design|CYB131
+131|Hacker's Bright Idea|CYB132
+132|Buzz and the Tree|CYB133
+133|The Lilting Loons|CYB134
+134|Living in Disharmony|CYB135
+135|Traffic Trouble|CYB136
+136|A Garden is Born|CYB137
+137|Clean-Up on Isle 8|CYB138
+140|Trees, Please|CYB139
+138|Weather or Not|CYB140
+139|Weather or Not|CYB141
+
+Question 11:
+The Halloween Howl
+The Flying Parallinis
+The Fairy Borg Father
+On the Line
+Inside Hacker
+EcoHaven Ooze
+Designing Mr. Perfect
+Crystal Clear
+A Fraction of a Chance
+A Clean Sweep
+
+Question 12:
+136
+
+Question 13:
+12|Of All The Luck|Logic|2002-02-05
+13|Eureeka|2D and 3D Geometry|2002-02-06
+14|Cool It|Liquid Volume|2002-02-07
+15|Find Those Gleamers|Algebra|2002-02-08
+16|Codename: Icky|Codes|2002-02-11
+17|Return to Sensible Flats|Line Graphs|2002-02-12
+18|Problem Solving in Shangri-La|Working Backwards|2002-02-13
+19|Send in the Clones|Multiplication|2002-02-14
+20|Trading Places|Monetary Systems|2002-03-14
+21|Less Than Zero|Negative Numbers|2002-07-03
+22|Model Behavior|Using Models|2002-07-10
+23|Fortress of Attitude|Linear Measurements|2002-07-17
+24|Size Me Up|Scale and Size|2002-07-24
+25|A Battle of Equals|Balancing Equations|2002-07-31
+26|Out of Sync|Patterns in Music|2002-08-07
+27|Hugs & Witches|Median of Data (Average)|2003-02-14
+28|Totally Rad|Perimeter/Area Relationship|2003-03-31
+29|Harriet Hippo & the Mean Green|Equivalent Fractions|2003-04-01
+30|True Colors|Counter Examples|2003-04-02
+31|All the Right Angles|Angle Measurement|2003-04-03
+32|Mother's Day|Decimals|2003-05-09
+33|The Eye of Rom|Inverse Operations|2003-05-16
+34|A Whale of a Tale|Ballpark estimation|2003-05-23
+35|Double Trouble|Growth by Doubling|2003-05-30
+36|Raising the Bar|Bar graphs|2003-09-15
+37|The Wedding Scammer|Problem Solving|2003-09-16
+38|The Guilty Party|Point of View|2003-09-17
+39|A Time to Cook|Elapsed Time|2003-09-18
+40|Trick or Treat|Functions|2003-10-28
+41|EcoHaven CSE|Body Math|2004-05-03
+42|The Borg of the Ring|Circles|2004-05-04
+43|A World Without Zero|Zero|2004-05-05
+44|A Piece of the Action|Percents|2004-05-06
+45|The Creech Who Would be Crowned|Direction and Distance|2004-05-07
+46|The Grapes of Plath|High-Low Estimation|2004-09-16
+47|A Perfect Fit|Tessellations|2003-09-23
+48|Be Reasonable|Reasoning|2004-09-30
+49|The Snelfu Snafu|Saving Money|2004-10-07
+50|The Snelfu Snafu|Spending Money|2004-10-14
+51|Shari Spotter and the Cosmic Crumpets|Mixed-Number Fractions|2004-10-28
+52|Starlight Night|Finding a Simpler Case|2004-12-31
+53|Balancing Act|Budgeting Money|2005-04-15
+54|The Icky Factor|Factoring|2005-07-25
+55|Penguin Tears|Angles in Bouncing|2005-07-26
+56|Past Perfect Prediction|Data Prediction|2005-07-27
+57|Measure For Measure|Units of Measurement|2005-07-28
+58|A Change of Art|Line Graph Comparisons|2005-10-03
+59|The Case of the Missing Memory|Missing Information|2005-10-04
+60|A Crinkle In Time|Gears|2005-10-05
+61|A Broom Of One's Own|Time/Distance/Speed|2005-10-06
+62|A Tikiville Turkey Day|Patterns in Nature|2005-10-07
+63|The Halloween Howl|Division|2006-10-31
+64|A Clean Sweep|Inventions: Persistence|2006-11-27
+65|Designing Mr. Perfect|Inventions: Design for Function|2006-11-28
+66|EcoHaven Ooze|Inventions: Testing with Models|2006-11-29
+67|The Fairy Borg Father|Inventions: Refine and Optimize|2006-11-30
+68|The Flying Parallinis|Parallelograms|2007-04-16
+69|Crystal Clear|Crystals|2007-04-17
+70|Inside Hacker|Robotic Reasoning|2007-04-18
+71|On the Line|Properties of a Line|2007-04-19
+72|A Fraction of a Chance|Fractions 101|2007-09-03
+73|Digit's B-Day Surprise|Reading a Thermometer|2007-11-07
+74|When Penguins Fly|Population Sampling|2007-12-12
+75|Unhappily Ever After|Builders' Math: Measurement, Geometry|2008-02-19
+76|Escape From Merlin's Maze|Builders' Math: Algebraic Thinking|2008-02-20
+77|Step By Step|Builders' Math: Multi-Step Problem Solving|2008-02-21
+78|Team Spirit|Math in Sports: Number and Operation|2008-04-08
+
+Question More Comf 1:
+Starlight Night|2004-12-31
+When Penguins Fly|2007-12-12
+Creech's Creature Quandary|2017-12-26
+A Murky Mystery in Mermaidos|2017-12-27
+Plantasaurus!|2017-12-28
+A Reboot Eve to Remember|2017-12-29
+
+Question More Comf 2:
+2002|01 21
+2003|02 14
+2004|05 03
+2005|04 15
+2006|10 31
+2007|04 16
+2008|02 19
+2009|04 20
+2010|06 25
+2013|11 04
+2014|04 21
+2015|11 09
+2017|10 23
+2018|04 16
+2019|11 29
+2020|02 14
+2022|02 25
+2023|04 21

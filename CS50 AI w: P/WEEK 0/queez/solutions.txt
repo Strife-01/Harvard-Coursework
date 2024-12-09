@@ -1,0 +1,11 @@
+1.
+BFS will sometimes, but not always, find a shorter path than DFS
+
+2.
+Could only be DFS
+
+3.
+Depth-limited minimax can arrive at a decision more quickly because it explores fewer states
+
+4.
+5

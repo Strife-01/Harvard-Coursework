@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="search-options">
+        <a href="index.html" class="button-link">Google Search</a>
+    </div>
+    <form action="https://www.google.com/search" method="get">
+        <div  class="g-advanced-search">
+            <div class="element">
+                <div class="item">
+                    Find pages with… “all these words:”
+                </div>
+                <div class="item">
+                    <input class="search-input" type="text" name="as_q">
+                </div>
+            </div>
+            <div class="break"></div> <!-- break to a new row -->
+
+            <div class="element">
+                <div class="item">
+                    Find pages with… “this exact word or phrase:
+                </div>
+                <div class="item">
+                    <input class="search-input" type="text" name="as_epq">
+                </div>
+            </div>
+            <div class="break"></div> <!-- break to a new row -->
+
+            <div class="element">
+                <div class="item">
+                    Find pages with… “any of these words:”
+                </div>
+                <div class="item">
+                    <input class="search-input" type="text" name="as_oq">
+                </div>
+            </div>
+            <div class="break"></div> <!-- break to a new row -->
+
+            <div class="element">
+                <div class="item">
+                    Find pages with… “none of these words:”
+                </div>
+                <div class="item">
+                    <input class="search-input" type="text" name="as_eq">
+                </div>
+            </div>
+            <div class="break"></div> <!-- break to a new row -->
+            <div class="item">
+                <input class="search-btn advanced-button" type="submit" value="Google Advanced Search">
+            </div>
+        </div>
+        
+    </form>
+</body>
+</html>

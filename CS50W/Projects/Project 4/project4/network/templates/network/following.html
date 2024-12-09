@@ -1,0 +1,12 @@
+{% extends "network/layout.html" %}
+{% load static %}
+
+{% block body %}
+<div class="container">
+    <ul class="posts-list-style" id="friends-posts-list"></ul>
+</div>
+{% endblock %}
+
+{% block script %}
+    <script src="{% static 'network/following.js' %}"></script>
+{% endblock %}
