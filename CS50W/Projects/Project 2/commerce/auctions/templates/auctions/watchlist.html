@@ -1,0 +1,31 @@
+{% extends "auctions/layout.html" %}
+
+{% block body %}
+    <h2>Watchlist</h2>
+
+    <div class="container w-100">
+        {% if listings_ %}
+            {% for listing_ in listings_ %}
+                {% for listing in listing_ %}
+                    <a href="{% url 'listing' listing.id %}">
+                        <div class="row border">
+                            <div class="col">
+                                <img src="{{ listing.image_url }}" alt="{{ listing.image_alt }}" width="300px">
+                            </div>
+                            <div class="col">
+                                <h3>{{ listing.title }}</h3>
+                                <!-- TODO: Add Price when implemented -->
+                                {% if listing.description %}
+                                    <p>{{ listing.description }}</p>
+                                {% endif %}
+                                <p>Created at {{ listing.created_at }}</p>
+                            </div>
+                        </div>
+                    </a>
+                {% endfor %}
+            {%endfor%}
+        {% else %}
+            <h3>No listings yet in watchlist.</h3>
+        {% endif %}
+    </div>
+{% endblock %}

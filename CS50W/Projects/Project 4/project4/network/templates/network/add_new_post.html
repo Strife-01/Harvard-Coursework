@@ -1,0 +1,15 @@
+{% extends "network/layout.html" %}
+
+{% block body %}
+<div class="container new_post">
+    <h4 class="add_post_header">New Post</h4>
+    {% if error %}
+        <h4 class="error">{{ error }}</h4>
+    {% endif %}
+    <form action="/add_new_post" method="post" class="form-group">
+        {% csrf_token %}
+        <textarea name="text" id="new_post_text" class="form-control"></textarea>
+        <input type="submit" value="Post" class="btn btn-primary">
+    </form>
+</div>
+{% endblock %}

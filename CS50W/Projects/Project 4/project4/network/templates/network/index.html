@@ -1,0 +1,18 @@
+{% extends "network/layout.html" %}
+{% load static %}
+
+{% block body %}
+<div class="container">
+    {% if user.is_authenticated %}
+    <ul class="posts-list-style" id="posts-list"></ul>
+    {% else %}
+    <h2>You are not authenticated...</h2>
+    <p>Please <a href="{% url 'login' %}">Log In</a> or <a href="{% url 'register' %}">Register</a> if you don't have an
+        account.</p>
+    {% endif %}
+    {% endblock %}
+</div>
+
+{% block script %}
+    <script src="{% static 'network/index.js' %}"></script>
+{% endblock %}
