@@ -10,7 +10,7 @@ This repository contains my solutions, notes, and projects from various Harvard 
 
 ### 1. **CS50: Introduction to Computer Science**
 ![CS50 Intro Logo](https://cs50.harvard.edu/x/2023/images/logo-cs50.png)
-![Link to resource](https://cs50.harvard.edu/college/2024/fall/)
+[Link to resource](https://cs50.harvard.edu/college/2024/fall/)
 - A comprehensive introduction to computer science, covering foundational concepts such as:
   - Problem-solving
   - Algorithms
@@ -23,7 +23,7 @@ This repository contains my solutions, notes, and projects from various Harvard 
 
 ### 2. **CS50P: Introduction to Programming with Python**
 ![CS50P Logo](https://cs50.harvard.edu/python/2023/images/logo-cs50p.png)
-![Link to resource](https://cs50.harvard.edu/python/2022/)
+[Link to resource](https://cs50.harvard.edu/python/2022/)
 - Focuses on the fundamentals of Python programming, including:
   - Loops, functions, and libraries
   - Error handling
@@ -34,7 +34,7 @@ This repository contains my solutions, notes, and projects from various Harvard 
 
 ### 3. **CS50 SQL**
 ![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
-![Link to resource](https://cs50.harvard.edu/sql/2024/)
+[Link to resource](https://cs50.harvard.edu/sql/2024/)
 - Covers database management and querying using SQL.
 - Includes exercises on relational databases, joins, and data normalization.
 - **Status:** Finished
@@ -43,7 +43,7 @@ This repository contains my solutions, notes, and projects from various Harvard 
 
 ### 4. **CS50 AI w/ Python**
 ![AI Logo](https://cs50.harvard.edu/ai/2023/images/logo-cs50ai.png)
-![Link to resource](https://cs50.harvard.edu/ai/2024/)
+[Link to resource](https://cs50.harvard.edu/ai/2024/)
 - Explores the basics of artificial intelligence, including:
   - Search algorithms
   - Machine learning
@@ -54,7 +54,7 @@ This repository contains my solutions, notes, and projects from various Harvard 
 
 ### 5. **CS50 Web Programming with Python and JavaScript (CS50W)**
 ![Web Programming Logo](https://cs50.harvard.edu/web/2023/images/logo-cs50w.png)
-![Link to resource](https://cs50.harvard.edu/web/2020/)
+[Link to resource](https://cs50.harvard.edu/web/2020/)
 - Teaches the fundamentals of web programming, focusing on:
   - HTML, CSS, and JavaScript
   - Backend development with Flask and Django
@@ -65,7 +65,7 @@ This repository contains my solutions, notes, and projects from various Harvard 
 
 ### 6. **CS50 Game Development**
 ![Game Dev Logo](https://cs50.harvard.edu/games/2023/images/logo-cs50g.png)
-![Link to resource](https://cs50.harvard.edu/games/2018/)
+[Link to resource](https://cs50.harvard.edu/games/2018/)
 - A deep dive into 2D and 3D game development, covering:
   - Game design principles
   - Frameworks like Unity and LÖVE
@@ -76,7 +76,7 @@ This repository contains my solutions, notes, and projects from various Harvard 
 
 ### 7. **CS50 Cybersecurity**
 ![Cybersecurity Logo](https://cs50.harvard.edu/cyber/2023/images/logo-cs50cyber.png)
-![Link to resource](https://cs50.harvard.edu/cybersecurity/2023/)
+[Link to resource](https://cs50.harvard.edu/cybersecurity/2023/)
 - Focuses on the fundamentals of cybersecurity, including:
   - Cryptography
   - Secure systems design
@@ -92,7 +92,7 @@ This repository contains my solutions, notes, and projects from various Harvard 
 
 ### 1. **CS50 R**
 ![CS50 R Logo](https://cs50.harvard.edu/r/2023/images/logo-cs50r.png)
-![Link to resource](https://cs50.harvard.edu/r/2024/)
+[Link to resource](https://cs50.harvard.edu/r/2024/)
 - Aims to introduce the basics of data science and programming in R.
 - Covers data visualization, statistical analysis, and reproducible research.
 
@@ -100,7 +100,7 @@ This repository contains my solutions, notes, and projects from various Harvard 
 
 ### 2. **CS50 Mobile**
 ![CS50 Mobile Logo](https://cs50.harvard.edu/mobile/2023/images/logo-cs50mobile.png)
-![Link to resource](https://cs50.harvard.edu/mobile/2018/)
+[Link to resource](https://cs50.harvard.edu/mobile/2018/)
 - Focuses on mobile application development using frameworks like React Native.
 - Teaches how to create cross-platform apps for iOS and Android.
 
